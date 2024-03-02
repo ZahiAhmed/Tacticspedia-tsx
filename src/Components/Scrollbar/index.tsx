@@ -4,7 +4,9 @@ const scrollbar = () => {
 
     return(
         <>
-        </>
+        <div></div>
+
+    </>
     )
 }
 
