@@ -4,7 +4,9 @@ const chart = () => {
 
     return(
         <>
-        </>
+        <div></div>
+
+    </>
     )
 }
 
